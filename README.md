@@ -1,12 +1,13 @@
 🗺️ Buscador de países por visitas
 
 Buscador en tiempo real que muestra bandera, nombre y código ISO del país, junto con el número de visitas registradas en la tabla visitas_pais. Se integra como módulo dentro del dashboard JcDuro.
-​
+
+---​
 
 📌 Descripción general
-Muestra una lista de países ordenados por cantidad de visitas.
 
-Cada país incluye: bandera (flag-icon-css), nombre, siglas (código ISO2) y total de visitas.
+- Muestra una lista de países ordenados por cantidad de visitas.
+- Cada país incluye: bandera (flag-icon-css), nombre, siglas (código ISO2) y total de visitas.
 ​
 ---
 
