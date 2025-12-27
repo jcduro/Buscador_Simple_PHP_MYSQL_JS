@@ -1,19 +1,21 @@
- <!-- Name: JC Duro Dashboard - Header File
-     |  ___|  __ \  |   |  _ \   _ \   
-     | |      |   | |   | |   | |   |  
- \   | |      |   | |   | __ <  |   |  
-\___/ \____| ____/ \___/ _| \_\\___/   
-                                       
-  ___|  _ \  __ \  ____|    _ )   _ _| __ \  ____|    \     ___|  
- |     |   | |   | __|     _ \ \   |  |   | __|     _ \  \___ \  
- |     |   | |   | |      ( `  <   |  |   | |      ___ \       | 
-\____|\___/ ____/ _____| \___/\/ ___|____/ _____|_/    _\_____/  
+<pre class="ascii-art">
+      _  _____ _____  _    _ _____   ____  
+     | |/ ____|  __ \| |  | |  __ \ / __ \ 
+     | | |    | |  | | |  | | |__) | |  | |
+ _   | | |    | |  | | |  | |  _  /| |  | |
+| |__| | |____| |__| | |__| | | \ \| |__| |
+ \____/ \_____|_____/ \____/|_|  \_\\____/ 
+</pre>
 
-  https://jcduro.bexartideas.com/index.php | 2026 | JC Duro Code & Ideas
-
-------------------------------------------------------------------------------- -->
-
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="40">
+    <title>aqui File Uploader</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 <!DOCTYPE html>
 <html lang="en">
 
