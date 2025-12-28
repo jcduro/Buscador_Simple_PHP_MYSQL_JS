@@ -1,17 +1,17 @@
-🗺️ Buscador de países por visitas
+## 🗺️ Buscador de países por visitas
 
 Buscador en tiempo real que muestra bandera, nombre y código ISO del país, junto con el número de visitas registradas en la tabla visitas_pais. Se integra como módulo dentro del dashboard JcDuro.
 
 ---​
 
-📌 Descripción general
+## 📌 Descripción general
 
 - Muestra una lista de países ordenados por cantidad de visitas.
 - Cada país incluye: bandera (flag-icon-css), nombre, siglas (código ISO2) y total de visitas.
 ​
 ---
 
-##✨ Vista previa
+## ✨ Vista previa
 
 ![Busqueda_Preview](previewbusq1.gif)
 
@@ -48,7 +48,7 @@ JavaScript
 - Hace fetch a get_visitas_map.php.
 - Recorre el array y crea dinámicamente <li> con la bandera, nombre, código y visitas.
 
-##🧠 Cómo funciona la búsqueda
+## 🧠 Cómo funciona la búsqueda
 - El input de búsqueda tiene id="filter" y escucha el evento input.
 - Cada vez que el usuario escribe, se ejecuta filterData(term).
 - La función recorre todos los <li> guardados en listItems y compara innerText del item con el término en minúsculas.
