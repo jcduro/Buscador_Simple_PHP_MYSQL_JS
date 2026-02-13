@@ -117,4 +117,18 @@ Se usa con clases del tipo flag-icon flag-icon-co donde co viene de code.toLower
 ## 📊 Resto del Codigo
 
 [Codigo_Visitas_Map](https://github.com/jcduro/Mapa_Visitas_CSS_MYSQL_PHP_JVECTOR/)
+
+
+
+--- 
+
+## 📄 Licencia
+Libre, usalo como quieras
+<div align="center">
+  Hecho con 💙 y neones
+</div>
+
+---
+
+## ⭐ Si te gustó este proyecto, no olvides dejar una estrella en GitHub!
 ​
