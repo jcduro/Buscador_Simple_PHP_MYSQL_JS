@@ -17,7 +17,7 @@
   <title>JcDuroDashBoard</title>
 
          <!-- Buscador1 Cards.css -->
-          <link rel="stylesheet" href="style.css">
+  
     <link rel="stylesheet" href="css/buscador1.css">
  
  
