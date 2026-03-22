@@ -8,15 +8,6 @@
 </pre>
 
 <!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="40">
-    <title>aqui File Uploader</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -26,6 +17,7 @@
   <title>JcDuroDashBoard</title>
 
          <!-- Buscador1 Cards.css -->
+          <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/buscador1.css">
  
  
